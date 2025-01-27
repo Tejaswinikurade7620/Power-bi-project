@@ -4,6 +4,10 @@ I have created my first interactive Dashboard on HR Analytics using Power BI wit
 ## Objective: 
 - By using data-driven insights, help an organization by enhancing staff performance, increasing employee retention, and lowering attrition.
 
+ ## Dashboard
+ [![HR](https://github.com/user-attachments/assets/5d61c8c0-f271-49e2-b67f-9a1d70aefd09)
+](https://github.com/user-attachments/assets/5826cd81-b51c-420b-86e6- 86830982d77f)
+
 ## Dashboard Overview: 
 - Department Level Filter - Human Resources, Research & Development, Sales. Performance Indicators (KPIs) – Count of employees, attrition figures, attrition rate, average age of employees, average salary of employees, and average year of employees at the company.
 
